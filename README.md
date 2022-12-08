@@ -1,5 +1,5 @@
 # Having a go to difussion models  
-![fig](tutorials/results/diffusion.gif)
+![fig](tutorials/results/difussion.gif)
 
 ## Tutorials
 * [annotated-diffusion.ipynb](tutorials)
