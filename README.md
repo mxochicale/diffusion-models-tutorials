@@ -1,8 +1,60 @@
-# Having a go to difussion models  
-![fig](tutorials/results/difussion.gif)
+# Having a go to [diffusion models](https://en.wikipedia.org/wiki/Diffusion_model)
+> ‘What I cannot build. I do not understand.’ ~Richard Feynman 
+
+![fig](tutorials/results/difussion_sample.gif)
 
 ## Tutorials
 * [annotated-diffusion.ipynb](tutorials)
+
+## Dependencies
+
+* Python package versions
+```
+$ cd $HOME/repositories/mxochicale/diffusion-models-tutorials/dependencies
+$ conda activate aiVE
+$ python package_versions.py 
+
+python: 3.10.8 (main, Nov 24 2022, 14:13:03) [GCC 11.2.0]
+opencv: 4.6.0
+torch: 1.11.0
+torch cuda_is_available: True
+torch cuda version: 11.3
+torch cuda.device_count  1
+```
+* OS
+```
+hostnamectl
+ Static hostname: --
+       Icon name: computer-laptop
+         Chassis: laptop
+      Machine ID: --
+         Boot ID: --
+Operating System: Ubuntu 22.04.1 LTS              
+          Kernel: Linux 5.15.0-56-generic
+    Architecture: x86-64
+ Hardware Vendor: --
+
+```
+* GPU
+```
+nvidia-smi -q
+
+==============NVSMI LOG==============
+
+Timestamp                                 : Sat Dec 17 13:27:52 2022
+Driver Version                            : 520.61.05
+CUDA Version                              : 11.8
+
+Attached GPUs                             : 1
+GPU 00000000:01:00.0
+    Product Name                          : NVIDIA RTX A2000 8GB Laptop GPU
+    Product Brand                         : NVIDIA RTX
+    Product Architecture                  : Ampere
+
+```
+
+
+
 
 ## Clone repository
 After generating your SSH keys as suggested [here](https://github.com/mxochicale/tools/blob/main/github/SSH.md) with few personal notes.
@@ -13,4 +65,4 @@ git clone git@github.com:mxochicale/diffusion-models-tutorials.git
 ```
 
 ## Issues 
-If you have questions and issues for this repo, please[open an issue](https://github.com/mxochicale/diffusion-models-tutorials/issues).
+If you have questions or experiment any issues for this repo, please [open an issue](https://github.com/mxochicale/diffusion-models-tutorials/issues).
