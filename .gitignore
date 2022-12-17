@@ -16,7 +16,7 @@
 **/*.npy
 
 ## ignore other paths
-#**/Medical-MNIST-Classification
+**/Medical-MNIST-Classification
 
 
 
