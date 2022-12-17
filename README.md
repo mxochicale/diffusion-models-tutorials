@@ -1,5 +1,5 @@
-# :school_satchel: :wrench: Having a go to [diffusion models](https://en.wikipedia.org/wiki/Diffusion_model)
-_‘What I cannot build. I do not understand.’ ~Richard Feynman_
+# :school_satchel: Having a go to [diffusion models](https://en.wikipedia.org/wiki/Diffusion_model)
+:wrench: _‘What I cannot build. I do not understand.’ ~ Richard Feynman (1918 – 1988)_
 
 ![fig](tutorials/results/difussion_sample.gif)
 
