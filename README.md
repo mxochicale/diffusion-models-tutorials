@@ -1,5 +1,5 @@
-# Having a go to [diffusion models](https://en.wikipedia.org/wiki/Diffusion_model)
-> ‘What I cannot build. I do not understand.’ ~Richard Feynman 
+# :school_satchel: :wrench: Having a go to [diffusion models](https://en.wikipedia.org/wiki/Diffusion_model)
+_‘What I cannot build. I do not understand.’ ~Richard Feynman_
 
 ![fig](tutorials/results/difussion_sample.gif)
 
@@ -65,4 +65,4 @@ git clone git@github.com:mxochicale/diffusion-models-tutorials.git
 ```
 
 ## Issues 
-If you have questions or experiment any issues for this repo, please [open an issue](https://github.com/mxochicale/diffusion-models-tutorials/issues).
+If you have questions or have experiment any problems, please [open an issue](https://github.com/mxochicale/diffusion-models-tutorials/issues).
