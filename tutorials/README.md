@@ -4,7 +4,7 @@
 * Open a terminal and type:
 ```
 cd $HOME/repositories/mxochicale/diffusion-models-tutorials/tutorials
-conda activate aiVE
+conda activate diffusionmodelsVE
 jupyter notebook
 ```
 * Press `QUIT` to exit and close your web-browser! 

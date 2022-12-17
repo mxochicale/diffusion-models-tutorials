@@ -12,8 +12,11 @@
 ## ignores vim temporal files
 **/*.swp
 
+## ignore model files
+**/*.npy
+
 ## ignore other paths
-#**/results
+#**/Medical-MNIST-Classification
 
 
 
