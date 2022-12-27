@@ -1,7 +1,16 @@
 # :school_satchel: Having a go to [diffusion models](https://en.wikipedia.org/wiki/Diffusion_model)
+> Diffusion probabilistic models are a class of latent variable models, e.g. Markov chains trained using variational inference.
+
 :wrench: _‘What I cannot build. I do not understand.’ ~ Richard Feynman (1918 – 1988)_
 
+* MedNIST
+![fig](tutorials/results/MedNIST.gif)
+
+* FashionNIST
 ![fig](tutorials/results/difussion_sample.gif)
+
+
+
 
 ## Tutorials
 * [annotated-diffusion.ipynb](tutorials)
