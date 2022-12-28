@@ -12,9 +12,11 @@
 ## ignores vim temporal files
 **/*.swp
 
-## ignore model files
+## ignore big files
 **/*.npy
 **/saved_model
+**/pathmnist.npz
+#**/pathmnist.npz > ##197MB
 
 ## ignore other paths
 **/Medical-MNIST-Classification
