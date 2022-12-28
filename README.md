@@ -3,10 +3,16 @@
 
 :wrench: _‘What I cannot build. I do not understand.’ ~ Richard Feynman (1918 – 1988)_
 
-<p style="text-align: center;">MedNIST</p> 
+<div align="center">
+	MedNIST
+</div>
+
 ![fig](tutorials/results/medNIST.gif)
 
-<p style="text-align: center;">FashionMNIST</p> 
+<div align="center">
+	FashionMNIST
+</div>
+
 ![fig](tutorials/results/difussion_sample.gif)
 
 
