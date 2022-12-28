@@ -3,17 +3,22 @@
 
 :wrench: _‘What I cannot build. I do not understand.’ ~ Richard Feynman (1918 – 1988)_
 
-* MedNIST
-![fig](tutorials/results/MedNIST.gif)
+<p style="text-align: center;">MedNIST</p> 
+![fig](tutorials/results/medNIST.gif)
 
-* FashionNIST
+<p style="text-align: center;">FashionMNIST</p> 
 ![fig](tutorials/results/difussion_sample.gif)
 
 
+## Clone repository
+After generating your SSH keys as suggested [here](https://github.com/mxochicale/tools/blob/main/github/SSH.md) with few personal notes.
+You can then clone the repository by typing (or copying) the following line in a terminal at your selected path in your machine:
+```
+cd && mkdir -p repositories/mxochicale && cd repositories/mxochicale
+git clone git@github.com:mxochicale/diffusion-models-tutorials.git
+```
 
 
-## Tutorials
-* [annotated-diffusion.ipynb](tutorials)
 
 ## Dependencies
 
@@ -66,14 +71,6 @@ GPU 00000000:01:00.0
 
 
 
-
-## Clone repository
-After generating your SSH keys as suggested [here](https://github.com/mxochicale/tools/blob/main/github/SSH.md) with few personal notes.
-You can then clone the repository by typing (or copying) the following line in a terminal at your selected path in your machine:
-```
-cd && mkdir -p repositories/mxochicale && cd repositories/mxochicale
-git clone git@github.com:mxochicale/diffusion-models-tutorials.git
-```
 
 ## Issues 
 If you have questions or have experiment any problems, please [open an issue](https://github.com/mxochicale/diffusion-models-tutorials/issues).
