@@ -3,14 +3,11 @@
 
 :wrench: _‘What I cannot build. I do not understand.’ ~ Richard Feynman (1918 – 1988)_
 
-<div align="center">
-![fig](tutorials/results/animation_medNIST.gif)   
-</div>   
+![fig](tutorials/results/animation_medNIST.gif)      
 **Fig 1.** Animated sample from MedNIST
 
-See [jupyter notebooks](tutorials/), [mnist-like datasets](datasets), [`*.gif` animations](tutorials/results), models and few [references](references).  
+See [jupyter notebooks](tutorials/), [mnist-like datasets](datasets), [`*.gif` animations](tutorials/results), models and few [references](references).
 The content of this repository should be fairly reproducible, see python version and its packages, OS version, GPU version and other [details](dependencies).  
-
 
 ## Clone repository
 After generating your SSH keys as suggested [here](https://github.com/mxochicale/tools/blob/main/github/SSH.md) with few personal notes.
