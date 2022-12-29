@@ -1,15 +1,15 @@
-# :school_satchel: Having a go to [diffusion models](https://en.wikipedia.org/wiki/Diffusion_model)
-> Diffusion probabilistic models are a class of latent variable models, e.g. Markov chains trained using variational inference.
+# :school_satchel: :wrench: Having a go to diffusion probabilistic models
+> Diffusion probabilistic models are a class of latent variable models, e.g. Markov chains trained using variational inference. ~[wiki](https://en.wikipedia.org/wiki/Diffusion_model)  
 
 :wrench: _‘What I cannot build. I do not understand.’ ~ Richard Feynman (1918 – 1988)_
 
 <div align="center">
-	MedNIST
+Generated sample from MedNIST
 </div>
 
 ![fig](tutorials/results/animation_medNIST.gif)
 
-See other `*.gif` animations at [tutorials/results](tutorials/results)
+See [jupyter notebooks](tutorials/), [mnist-like datasets](datasets), [`*.gif` animations](tutorials/results), models and few [references](references).
 
 ## Clone repository
 After generating your SSH keys as suggested [here](https://github.com/mxochicale/tools/blob/main/github/SSH.md) with few personal notes.
@@ -18,8 +18,6 @@ You can then clone the repository by typing (or copying) the following line in a
 cd && mkdir -p repositories/mxochicale && cd repositories/mxochicale
 git clone git@github.com:mxochicale/diffusion-models-tutorials.git
 ```
-
-
 
 ## Dependencies
 
