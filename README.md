@@ -3,11 +3,13 @@
 
 :wrench: _‘What I cannot build. I do not understand.’ ~ Richard Feynman (1918 – 1988)_
 
-![fig](tutorials/results/animation_medNIST.gif)
+<div align="center">
+![fig](tutorials/results/animation_medNIST.gif)   
+</div>   
 **Fig 1.** Animated sample from MedNIST
 
 See [jupyter notebooks](tutorials/), [mnist-like datasets](datasets), [`*.gif` animations](tutorials/results), models and few [references](references).  
-This repo should be fairly reproducible, see python version and its packages, OS version, GPU version and other [details](dependencies).  
+The content of this repository should be fairly reproducible, see python version and its packages, OS version, GPU version and other [details](dependencies).  
 
 
 ## Clone repository
