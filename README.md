@@ -7,9 +7,9 @@
 	MedNIST
 </div>
 
-![fig](tutorials/results/medNIST.gif)
+![fig](tutorials/results/animation_medNIST.gif)
 
-See other animations at [tutorials/results](tutorials/results)
+See other `*.gif` animations at [tutorials/results](tutorials/results)
 
 ## Clone repository
 After generating your SSH keys as suggested [here](https://github.com/mxochicale/tools/blob/main/github/SSH.md) with few personal notes.
