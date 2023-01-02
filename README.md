@@ -1,7 +1,7 @@
 # :school_satchel: :wrench: Having a go to diffusion probabilistic models
 > Diffusion probabilistic models are a class of latent variable models, e.g. Markov chains trained using variational inference. [~wiki](https://en.wikipedia.org/wiki/Diffusion_model)  
 
-:wrench: _‘What I cannot create. I do not understand.’ ~ Richard Feynman (1918 – 1988)_ [:tv:](https://www.youtube.com/watch?v=GHOGAomJJjM) [:link:](https://www.quora.com/What-did-Richard-Feynman-mean-when-he-said-What-I-cannot-create-I-do-not-understand)
+:wrench: _‘What I cannot create. I do not understand.’ ~ Richard Feynman (1918 – 1988)_ [:tv:](https://youtu.be/GHOGAomJJjM?t=496) [:link:](https://www.quora.com/What-did-Richard-Feynman-mean-when-he-said-What-I-cannot-create-I-do-not-understand)
 
 
 ![fig](tutorials/results/animation_medNIST.gif)      
