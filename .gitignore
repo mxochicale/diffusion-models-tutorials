@@ -19,8 +19,7 @@
 **/pathmnist.npz
 #**/pathmnist.npz > ##197MB
 
-## ignore other paths
+## ignore datasets paths
 **/Medical-MNIST-Classification
-
-
+**/datasets/MNIST
 
