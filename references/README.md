@@ -36,8 +36,30 @@ YOUTUBE: https://www.youtube.com/watch?v=JlmOZZnjzOg
 https://arxiv.org/abs/2211.17091   
 https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Refining+Generative+Process+with+Discriminator+Guidance+in+Score-based+Diffusion+Models&btnG=    
 
+## Video blogs
+* How AI Image Generators Work (Stable Diffusion / Dall-E) - Computerphile[4 Oct 2022] by Mike Pound
+	* https://www.youtube.com/watch?v=1CIpzeNxIhU 
+		* Where to find Mike Pound
+		* https://www.nottingham.ac.uk/research/beacons-of-excellence/future-food/meet-the-team/michael-pound/index.aspx  
+		* `https://twitter.com/_mikepound`
+
+* Ultimate Guide to Diffusion Models | ML Coding Series | Denoising Diffusion Probabilistic Models [7 Jul 2022] by Aleksa Gordić - The AI Epiphany 
+	* https://www.youtube.com/watch?v=y7J6sSO1k50 
+	* https://arxiv.org/abs/2006.11239 
+	* https://arxiv.org/abs/2102.09672 
+	* https://github.com/openai/improved-diffusion  
+		* Where to find Aleksa Gordic
+		* https://github.com/gordicaleksa
+		* https://twitter.com/gordic_aleksa 
+
+* DDPM - Diffusion Models Beat GANs on Image Synthesis (Machine Learning Research Paper Explained) [15 May 2021] by Yannic Kilcher
+	* https://www.youtube.com/watch?v=W-O7AZNzbzQ
+	* https://arxiv.org/abs/2105.05233 
+	* https://github.com/openai/guided-diffusion  
+		* Where to find Yannic Kilcher
+		* https://twitter.com/ykilcher
+		* https://github.com/yk 
 
 ## Glossary
 * `Gaussian distribution is isotropic?` > https://math.stackexchange.com/questions/1991961/gaussian-distribution-is-isotropic 
-
 
