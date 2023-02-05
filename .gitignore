@@ -19,8 +19,14 @@
 **/pathmnist.npz
 #**/pathmnist.npz > ##197MB
 
-## ignore other paths
+## ignore diffusers files
+**/my_pipeline
+model_index.json
+**/scheduler
+**/unet
+**/model_index.json
+
+## ignore datasets paths
 **/Medical-MNIST-Classification
-
-
+**/datasets/MNIST
 

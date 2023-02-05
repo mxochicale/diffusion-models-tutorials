@@ -48,7 +48,8 @@ dependencies:
     - jupyter
     - jupyter_contrib_nbextensions
     - datasets
+    - diffusers
+    - pillow
     #- pandas
     #- pytables
-    #- pillow
 
