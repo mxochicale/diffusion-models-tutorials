@@ -11,15 +11,16 @@ $ cd $HOME/repositories/mxochicale/diffusion-models-tutorials/dependencies
 $ conda activate diffusionmodelsVE
 $ python package_versions.py 
 
-python: 3.10.8 (main, Nov 24 2022, 14:13:03) [GCC 11.2.0]
+python: 3.10.9 (main, Jan 11 2023, 15:21:40) [GCC 11.2.0]
 torch: 1.11.0
 torch cuda_is_available: True
 torch cuda version: 11.3
 torch cuda.device_count  1
-sklearn version: 1.2.0
-plotly version: 5.11.0
-
+sklearn version: 1.2.1
+plotly version: 5.13.0
+pillow version: 9.4.0
 ```
+
 * OS
 ```
 $ hostnamectl

@@ -7,6 +7,7 @@ import torch
 #import albumentations
 import sklearn
 import plotly
+import PIL
 #import pandas
 
 
@@ -21,6 +22,7 @@ print(f'torch cuda.device_count  {torch.cuda.device_count()}')
 #print(f'albumentations: {albumentations.__version__}')
 print(f'sklearn version: {sklearn.__version__}')
 print(f'plotly version: {plotly.__version__}')
+print(f'PIL version: {PIL.__version__}')
 #print(f'pandas version: {pandas.__version__}')
 
 
